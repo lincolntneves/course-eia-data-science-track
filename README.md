@@ -3,7 +3,7 @@ This is a repository to share my activities during the Data Science Track from E
 
 
 ## Chapters
-CAP02 - Variable Declaration
+CAP02 - Variable Declaration \n
 CAP03 - Decision Structures
 CAP04 - Repetition Structures
 CAP05 - Functions
