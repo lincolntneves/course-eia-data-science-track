@@ -3,14 +3,14 @@ This is a repository to share my activities during the Data Science Track from E
 
 
 ## Chapters
-CAP02 - Variable Declaration \n
-CAP03 - Decision Structures
-CAP04 - Repetition Structures
-CAP05 - Functions
-CAP06 - Object Orientation
-CAP07 - Lists and Other Issues
-CAP08 - Implementing Data Science Functions
-CAP09 - Using Data Science Functions
-CAP10 - Final Project
-CAP11 - Study Recommendation
+CAP02 - Variable Declaration <br/>
+CAP03 - Decision Structures<br/>
+CAP04 - Repetition Structures<br/>
+CAP05 - Functions<br/>
+CAP06 - Object Orientation<br/>
+CAP07 - Lists and Other Issues<br/>
+CAP08 - Implementing Data Science Functions<br/>
+CAP09 - Using Data Science Functions<br/>
+CAP10 - Final Project<br/>
+CAP11 - Study Recommendation<br/>
 
