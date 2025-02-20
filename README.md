@@ -14,3 +14,6 @@ CAP09 - Using Data Science Functions<br/>
 <a href="https://github.com/lincolntneves/course-eia-data-science-track/tree/main/01%20-%20Programming%20Logic%20for%20Data%20Science%20and%20AI%20With%20Python/CAP10%20-%20Final%20Project">CAP10 - Final Project</a><br/>
 CAP11 - Study Recommendation<br/>
 
+
+## 02 - Professional Training Python Complete Course + Projects
+## Chapters
