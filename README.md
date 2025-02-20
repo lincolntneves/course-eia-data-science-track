@@ -11,6 +11,6 @@ CAP06 - Object Orientation<br/>
 <a href="https://github.com/lincolntneves/course-eia-data-science-track/tree/main/01%20-%20Programming%20Logic%20for%20Data%20Science%20and%20AI%20With%20Python/CAP07%20-%20Lists%20and%20Other%20Issues">CAP07 - Lists and Other Issues</a><br/>
 CAP08 - Implementing Data Science Functions<br/>
 CAP09 - Using Data Science Functions<br/>
-CAP10 - Final Project<br/>
+<a href="https://github.com/lincolntneves/course-eia-data-science-track/tree/main/01%20-%20Programming%20Logic%20for%20Data%20Science%20and%20AI%20With%20Python/CAP10%20-%20Final%20Project">CAP10 - Final Project</a><br/>
 CAP11 - Study Recommendation<br/>
 
