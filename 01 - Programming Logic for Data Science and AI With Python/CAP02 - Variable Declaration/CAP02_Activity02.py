@@ -1,0 +1,6 @@
+val1 = input("Informe o primeiro valor inteiro: ")
+val1 = int(val1)
+val2 = input("Informe o segundo valor inteiro: ")
+val2 = int(val2)
+print("Soma dos valores: ", val1 + val2)
+print("Produto dos valores: ", val1 * val2)
