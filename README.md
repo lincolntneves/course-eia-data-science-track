@@ -15,5 +15,5 @@ CAP09 - Using Data Science Functions<br/>
 CAP11 - Study Recommendation<br/>
 
 
-## <a href= "https://github.com/lincolntneves/course-eia-data-science-track/tree/main/02%20-%20Professional%20Training%20Python%20Complete%20Course%20%2B%20Projects"> 02 - Professional Training Python Complete Course + Projects </a>
+## <a href= "[02 - Professional Training Python Complete Course + Projects](https://github.com/lincolntneves/course-eia-data-science-track/tree/main/02%20-%20Professional%20Training%20Python%20Complete%20Course%20%2B%20Projects)">02 - Professional Training Python Complete Course + Projects</a>
 ## Chapters
