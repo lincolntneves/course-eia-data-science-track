@@ -18,3 +18,4 @@ CAP11 - Study Recommendation<br/>
 ## 02 - Professional Training Python Complete Course + Projects <a href= "https://github.com/lincolntneves/course-eia-data-science-track/tree/main/02%20-%20Professional%20Training%20Python%20Complete%20Course%20%2B%20Projects">(File)</a>
 ## Chapters
 <a href="https://github.com/lincolntneves/course-eia-data-science-track/blob/main/02%20-%20Professional%20Training%20Python%20Complete%20Course%20%2B%20Projects/02_Fundamentos.ipynb">CAP02 - Fundamentals</a> <br/>
+<a href="https://github.com/lincolntneves/course-eia-data-science-track/blob/main/02%20-%20Professional%20Training%20Python%20Complete%20Course%20%2B%20Projects/03_Programming_Structures.ipynb">CAP03 - Programming Structures</a> <br/>
